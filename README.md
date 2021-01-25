@@ -1,6 +1,6 @@
 # Floating Navigation bar
 
-A flutter navigation bar stacked on TabBarView, that allows do control TabBarView aroud the nav bar.
+A flutter navigation bar stacked on TabBarView, that allows do control TabBarView around the nav bar.
 
 ## Sample
 
