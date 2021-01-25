@@ -9,6 +9,9 @@ class NavigationBarApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Floating Navigation Bar',
+      theme: ThemeData(
+        primaryColor: Color.fromRGBO(28, 28, 28, 1),
+      ),
       home: HomePage(),
     );
   }
