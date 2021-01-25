@@ -1,16 +1,7 @@
-# floating_navigation_bar
+# Floating Navigation bar
 
-A new Flutter application.
+A flutter navigation bar stacked on TabBarView, that allows do control TabBarView aroud the nav bar.
 
-## Getting Started
+## Sample
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![navigation-bar](https://github.com/jakubcekala/floating-navigation-bar/navigation_bar.gif)
