@@ -4,4 +4,4 @@ A flutter navigation bar stacked on TabBarView, that allows do control TabBarVie
 
 ## Sample
 
-![navigation-bar](https://github.com/jakubcekala/floating-navigation-bar/navigation_bar.gif)
+![navigation-bar](https://github.com/jakubcekala/floating-navigation-bar/find/master/navigation_bar.gif)
